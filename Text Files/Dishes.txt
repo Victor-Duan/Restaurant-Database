@@ -1,0 +1,612 @@
+19
+
+Bourbon Chicken
+Entree
+50
+11
+chicken
+g
+2000
+olive oil
+ml
+5 
+garlic clove
+g
+50  
+ginger
+g
+5 	 	
+red pepper flakes
+g
+15 		
+apple juice
+ml
+100 	
+brown sugar
+g
+50 
+ketchup	
+ml
+100 	
+cider vinegar
+ml
+25 		
+water
+ml
+125 	
+soy sauce
+ml
+100 	
+
+Sesame chicken
+Entree
+75
+10
+water
+ml
+125 	
+cornstarch
+g
+50 		
+garlic powder
+g
+5 		
+chicken
+g
+1000 	
+vegetable oil
+ml
+50 		
+broccoli
+g
+500 		
+onion
+g
+100 		
+soy sauce
+ml
+50 		
+brown sugar
+g
+10 		
+ginger
+g
+5 		
+
+Kung Pao chicken
+Entree
+40
+10
+chicken
+g
+1000 	
+cornstarch
+g
+25 		
+vegetable oil
+ml
+50 		
+onion
+g
+75 		
+garlic clove
+g
+50 		
+red pepper flakes
+g
+10 		
+powdered ginger
+g
+10 		
+cider vinegar
+ml
+50 		
+soy sauce
+ml
+50 		
+sugar
+g
+100 		
+
+General Tsao's chicken
+Entree
+45
+7
+chicken
+g
+1000 	
+eggs
+g
+300 		
+cornstarch
+g
+150 		
+cider vinegar
+ml
+25 		
+rice wine
+ml
+50 		
+sugar
+g
+75 		
+soy sauce
+ml
+75 		
+
+Crispy Ginger beef
+Entree
+85
+13
+steak
+g
+1000 	
+cornstarch
+g
+250 		
+water
+ml
+125 	
+egg
+g
+200 		
+carrot
+g
+100 		
+onion
+g
+300 		
+ginger
+g
+100 		
+garlic clove
+g
+50 		
+soy sauce
+ml
+75 		
+rice vinegar
+ml
+25 		
+sesame oil
+ml
+50 		
+sugar
+g
+150 		
+red pepper flakes
+g
+15 		
+
+Marinated chicken wings
+Entree
+75
+8
+water
+ml
+150 	
+soy sauce
+ml
+150 	
+sugar
+g
+150 		
+pineapple juice
+ml
+50 		
+vegetable oil
+ml
+50 		
+garlic powder
+g
+5 		
+ginger
+g
+5 		
+chicken
+g
+3000 	
+
+Broccoli stir fry
+Entree
+35
+10
+cornstarch
+g
+75 		
+water
+ml
+125 	
+garlic powder
+g
+5 		
+steak
+g
+1000 	
+vegetable oil
+ml
+50 		
+broccoli
+g
+500 		
+onion
+g
+100 		
+soy sauce
+ml
+125 	
+brown sugar
+g
+50 		
+ginger
+g
+5 		
+
+Szechuan noodle
+Entree
+40
+9
+beef
+g
+1000 	
+onion
+g
+100 		
+garlic
+g
+10 		
+ginger
+g
+5 		
+red pepper flakes
+g
+5 		
+sesame oil
+ml
+50 		
+cornstarch
+g
+50 		
+soy sauce
+ml
+50 		
+pasta
+g
+250 		
+
+Shanghai noodle
+Entree
+30
+6
+sesame oil
+ml
+50 		
+cabbage
+g
+100	
+onion
+g
+50	
+pasta
+g
+250 		
+soy sauce
+ml
+50 		
+chicken
+g
+1000	
+
+Cashew chicken
+Entree
+40
+9
+salt
+g
+5 		
+sugar
+g
+75 		
+sesame oil
+ml
+5 		
+chicken
+g
+500
+cornstarch
+g
+50	
+ginger
+g
+50	
+garlic
+g
+100	
+onion
+g
+100	
+carrot
+g
+200	
+
+Pork dumpling
+Entree
+50
+8
+pork
+g
+1000 		
+ginger
+g
+17 		
+garlic
+g
+50 		
+onion
+g
+34 		
+soy sauce
+ml
+15 		
+sesame oil
+ml
+45 		
+egg
+g
+50 		
+cabbage
+g
+625 		
+
+Chinese spareribs
+Entree
+25
+9
+ketchup
+ml
+15 		
+honey
+ml
+15 		
+soy sauce
+ml
+15 		
+rice vinegar
+ml
+5 		
+lemon juice
+ml
+5  		
+ginger
+g
+6 		
+garlic
+g
+30 		
+spice powder
+g
+2 		
+pork
+g
+500 		
+
+Sweet and sour chicken
+Entree
+30
+10
+pineapple
+g
+240 		
+cornstarch
+g
+40 		
+water
+ml
+250 		
+sugar
+g
+100 		
+vinegar
+ml
+125 		
+chicken
+g
+500 		
+vegetable oil
+ml
+30 		
+cornstarch
+g
+34 		
+salt
+g
+3 		
+egg
+g
+50 		
+
+Peking pork chops
+Entree
+20
+7
+pork
+g
+500 		
+brown sugar
+g
+40 		
+ginger
+g
+6 		
+soy sauce
+ml
+125 		
+ketchup
+ml
+60 		
+garlic
+g
+100 		
+salt
+g
+3 		
+
+Sweet and sour pork
+Entree
+45
+13
+pork
+g
+500 		
+salt
+g
+6 		
+sugar
+g
+2 		
+soy sauce
+ml
+5  		
+egg
+g
+50 		
+onion
+g
+200 		
+cornstarch
+g
+60 		
+celery
+g
+300 		
+green pepper
+g
+100 		
+water
+ml
+250 		
+salt
+g
+5 		
+ketchup
+ml
+60 		
+pineapple
+g
+240 		
+
+Chinese noodle chicken
+Entree
+30
+6
+chicken
+g
+500 		
+vegetable oil
+ml
+15 		
+onion
+g
+50 		
+broccoli
+g
+250 		
+carrot
+g
+300 		
+spaghetti
+g
+500 		
+
+Chinese roast pork
+Entree
+80
+7
+pork
+g
+2000 		
+soy sauce
+ml
+200 		
+honey
+ml
+70 		
+garlic
+g
+200 		
+ginger
+g
+5 		
+cornstarch
+g
+17 		
+water
+ml
+50 		
+
+Spicy pork stir-fry
+Entree
+10
+10
+soy sauce
+ml
+30 		
+cornstarch
+g
+17 		
+water
+ml
+50 		
+pork
+g
+500 		
+vinegar
+ml
+30 		
+sesame oil
+ml
+15 		
+ginger
+g
+3 		
+green pepper
+g
+200 		
+carrot
+g
+50 		
+onion
+g
+40 		
+
+Green pepper chicken
+Entree
+30
+9
+sesame oil
+ml
+30 		
+garlic
+g
+200
+salt
+g
+1 		
+chicken
+g
+500 		
+water
+ml
+125 		
+onion
+g
+150 		
+green pepper
+g
+200 		
+soy sauce
+ml
+15 		
+cornstarch
+g
+125 

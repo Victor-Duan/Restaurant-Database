@@ -1,0 +1,254 @@
+5
+
+No Frills
+16
+chicken
+g
+0.01
+olive oil
+ml
+0.05
+garlic clove
+g
+0.05
+ginger
+g
+0.03
+red pepper flakes
+g
+0.25
+apple juice
+ml
+0.04
+brown sugar
+g
+0.08
+Ketchup
+ml
+0.02
+cider vinegar
+ml
+0.15
+water
+ml
+0.001
+soy sauce
+ml
+0.05
+cornstarch
+g
+0.02
+garlic powder
+g
+0.1
+vegetable oil
+ml
+0.2
+broccoli
+g
+0.02
+onion
+g
+0.012
+
+Food Basics
+16
+sesame oil
+ml
+0.06
+pineapple juice
+ml
+0.05
+beef
+g
+0.01
+salt
+g
+0.02
+cabbage
+g
+0.01
+garlic
+g
+0.05
+pasta
+g
+0.01
+pork
+g
+0.01
+spice powder
+g
+0.05
+pineapple
+g
+0.002
+vinegar
+ml
+0.015
+green pepper
+g
+0.03
+celery
+g
+0.02
+spaghetti
+g
+0.01
+honey
+ml
+0.015
+lemon juice
+ml
+0.01
+
+Costco
+21
+chicken
+g
+0.005
+olive oil
+ml
+0.06
+garlic clove
+g
+0.25
+Ginger
+g
+0.01
+red pepper flakes
+g
+0.5
+apple juice
+ml
+0.01
+brown sugar
+g
+0.05
+Ketchup
+ml
+0.1
+cider vinegar
+ml
+0.08
+water
+ml
+0.01
+soy sauce
+ml
+0.15
+cornstarch
+g
+0.025
+garlic powder
+g
+0.05
+vegetable oil
+ml
+0.3
+broccoli
+g
+0.08
+onion
+g
+0.025
+sugar
+g
+0.015
+egg
+g
+0.02
+rice wine
+ml
+0.035
+steak
+g
+0.01
+carrot
+g
+0.02
+
+TNT
+11
+broccoli
+g
+0.01
+onion
+g
+1.5
+sugar
+g
+0.02
+egg
+g
+0.015
+rice wine
+ml
+0.03
+steak
+g
+0.015
+carrot
+g
+0.015
+rice vinegar
+ml
+0.04
+sesame oil
+ml
+0.03
+pineapple juice
+ml
+0.08
+beef
+g
+0.005
+
+Loblaws
+15
+chicken
+g
+0.02
+olive oil
+ml
+0.03
+garlic clove
+g
+0.12
+cider vinegar
+ml
+0.05
+water
+ml
+0.02
+soy sauce
+ml
+0.09
+cornstarch
+g
+0.012
+garlic powder
+g
+0.15
+vegetable oil
+ml
+0.1
+broccoli
+g
+0.04
+beef
+g
+0.015
+salt
+g
+0.01
+cabbage
+g
+0.015
+garlic
+g
+0.0025
+pasta
+g
+0.002
+
